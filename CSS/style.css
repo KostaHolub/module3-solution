@@ -1,0 +1,18 @@
+.brand-stl {
+  font-size: 2em;;
+  font-weight: 700;
+}
+#myNavbar a{
+  color: #fff;
+}
+#myNavbar li{
+  background: #33cc33;
+}
+#myNavbar li:hover {
+  background: #119933;
+}
+.item {
+  padding: 5px 15px 0;
+  background: #ffcc00;
+  color: black;	
+}
